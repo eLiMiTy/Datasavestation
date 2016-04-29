@@ -1,0 +1,19 @@
+body { 
+	background-color: #FE4C00;
+	margin-left : 20px;
+	margin-right: 20px;
+	font-size: 25px;
+	font-family: Arial;
+}
+h2 {
+	color: green;
+	text-align: center;
+	font-size:200%;
+	font-family:serif;
+	text-decoration:underline;
+}
+div {
+	border: 100px;
+	background-color: red;
+	text-align: ;
+}
